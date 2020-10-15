@@ -48,3 +48,9 @@ img {
 #film-info {
     padding-bottom: 15px;
 }
+
+.index-list{
+    border-style: ridge;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
